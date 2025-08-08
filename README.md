@@ -1,6 +1,6 @@
 # Spotify Lyrics API
 
-This project provides an unofficial API to fetch song lyrics from Spotify. It uses an undocumented internal endpoint, so use it at your own risk.
+This provides an unofficial API to fetch song lyrics from Spotify. It uses an undocumented internal endpoint, so use it at your own risk.
 
 ## Features
 
@@ -48,7 +48,7 @@ curl http://localhost:8000/lyrics/4a8pP5X2lxwU5aprY44jLn
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/AndresDevvv/spotify-lyrics.git
     cd spotify-lyrics
     ```
 
